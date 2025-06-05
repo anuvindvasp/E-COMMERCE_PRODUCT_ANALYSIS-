@@ -1,5 +1,6 @@
 # E-COMMERCE PRODUCT ANALYSIS
-![image](https://github.com/user-attachments/assets/1c25fc2f-2701-4376-af7c-3877c1bba0f6)
+![ciobulletin-amazon-gains-ecommerce-market](https://github.com/user-attachments/assets/fac242bf-ada5-4629-bd90-43b3f9eda8bb)
+
 
 ## INTRODUCTION
 
