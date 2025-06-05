@@ -1,4 +1,4 @@
-# E-COMMERCE_PRODUCT_ANALYSIS-
+# E-COMMERCE PRODUCT ANALYSIS
 ![image](https://github.com/user-attachments/assets/1c25fc2f-2701-4376-af7c-3877c1bba0f6)
 
 INTRODUCTION
@@ -12,13 +12,33 @@ The process includes web scraping, data cleaning, data storage in a relational d
 WORK FLOW
 
 Web Scraping ⛓️‍💥
+* Extracted fields: Product Name, Price, Rating, Number of Reviews
  
 Data Cleaning 🧹
- 
+* Handled missing or null values by removing them
+* Converted data types for consistency
+* Applied normalization and standardization techniques to prepare data for clustering
+  
 Data Storage 📥
+* Created a SQLite database engine
+* Data frame stored in the database
+
+Exploratory Data Analysis (EDA) 📊
+* Created visualizations to explore the distribution of product prices and ratings
+* Conducted analysis to identify patterns and correlations between price and customer ratings
  
 Unsupervised Learning ⚒️
- 
+* Used Clustering (KMeans) to group similar products
+* Applied the Elbow Method to determine the optimal number of clusters (k) for effective segmentation
+  
 Supervised Learning 🔩
+* model is trained on a labeled dataset
+* Algorithm used:
+  ○ Logistic Regression
+  ○ Decision Trees
+  ○ Random Forest
+  ○ Support Vector Machines (SVM)
+  ○ K-Nearest Neighbors (KNN)
 
 Hyperparameter Tuning ⚙️
+* demonstrated Random Search
