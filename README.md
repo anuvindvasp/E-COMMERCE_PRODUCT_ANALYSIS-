@@ -4,7 +4,7 @@
 
 ## INTRODUCTION
 
-This project focuses on leveraging data science techniques to analyze e-commerce product data, with the goal of uncovering market trends and customer preferences. 
+This project focuses on leveraging data science techniques to analyze e-commerce product data(Amazon), with the goal of uncovering market trends and customer preferences. 
 And also, techniques to enhance the company’s product offerings and marketing strategies.
 
 The process includes web scraping, data cleaning, data storage in a relational database, performing analysis, unsupervised learning for clustering similar products, supervised learning for classification, and hyperparameter tuning for performance optimization. 
@@ -44,6 +44,9 @@ The process includes web scraping, data cleaning, data storage in a relational d
 ### Hyperparameter Tuning ⚙️
 * demonstrated Random Search
 * Tuned the best model
+
+### Dataset :
+HTML dataset from e-commerce website Amazon
 
 ## Conclusion
 * This end-to-end project provided critical insights into the workings of a complete data science pipeline applied to real-world e-commerce product data
